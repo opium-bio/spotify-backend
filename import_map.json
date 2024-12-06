@@ -1,0 +1,7 @@
+{
+    "imports": {
+      "@std/assert": "jsr:@std/assert@1",
+      "@lib": "./libs/mod.ts"
+    }
+  }
+  
